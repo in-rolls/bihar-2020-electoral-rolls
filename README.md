@@ -4,5 +4,5 @@ We scrape the 2020 Bihar Electoral Rolls from http://ele.bihar.gov.in/pdfsearch/
 
 ## Scripts
 
-The [script] download 72,723 PDF files and upload to [Google Cloud Storage](gs://in-electoral-rolls-2020/bihar)
+The [script] download 72,723 PDF files and upload to Google Cloud Storage (gs://in-electoral-rolls-2020/bihar)
 The file name follows the following format: `FinalRoll_ACNo_<AC NO 1~243>PartNo_<PART NO>.pdf`
