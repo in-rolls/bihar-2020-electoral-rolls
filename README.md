@@ -11,7 +11,7 @@ We used the [script](bihar.py) to download 72,723 PDF files and upload to Google
 * [list.txt](list.txt)
 * [list2.txt](list2.txt) --- files that weren't downloaded the first time.
 
-## Checking That we Downloaded Everything
+## Checking That We Downloaded Everything
 
 Notebook to check [here](https://github.com/in-rolls/bihar-2020-electoral-rolls/blob/master/bihar_check.ipynb)
 
