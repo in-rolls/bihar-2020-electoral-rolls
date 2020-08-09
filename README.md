@@ -11,7 +11,7 @@ The file name has the following format: `FinalRoll_ACNo_<AC NO 1~243>PartNo_<PAR
 2. [Notebook](scripts/bihar_check.ipynb) to check if we downloaded all the files
 3. [Notebook](scripts/bihar_to_csv.ipynb) to check file size and produce [metadata CSV for files](metadata_and_log_files/bihar.csv)
 
-### Log Files
+### Log Files and Metadata CSV
 
 * [list.txt](metadata_and_log_files/list.txt) --- files that downloaded the first time.
 * [list2.txt](metadata_and_log_files/list2.txt) --- all files that downloaded after the 2nd time.
