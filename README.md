@@ -8,13 +8,13 @@ We used the [script](bihar.py) to download 72,723 PDF files and upload to Google
 
 ### Log Files
 
-* [list.txt](list.txt) --- files that downloaded the first time
+* [list.txt](list.txt) --- files that downloaded the first time.
 * [list2.txt](list2.txt) --- all files that downloaded after the 2nd time.
-* [list3.txt](list3.txt)] --- all files with files ize
+* [list3.txt](list3.txt) --- all files with file size.
 
 ## Checking That We Downloaded Everything
 
-Notebook to check [here](https://github.com/in-rolls/bihar-2020-electoral-rolls/blob/master/bihar_check.ipynb) and [another notebook](bihar_to_csv.ipynb) to check file size and output [file list in CSV format](bihar.csv)
+Notebook to check [here](bihar_check.ipynb) and [another notebook](bihar_to_csv.ipynb) to check file size and output [file list in CSV format](bihar.csv)
 
 ### How Do I Get the Electoral Rolls?
 
