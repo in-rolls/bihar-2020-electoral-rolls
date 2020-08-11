@@ -10,6 +10,7 @@ The file name has the following format: `FinalRoll_ACNo_<AC NO 1~243>PartNo_<PAR
   - There were a few files which we couldn't download in the first try. The script for downloading those is [here](scripts/bihar_patch.py).
 2. [Notebook](scripts/bihar_check.ipynb) to check if we downloaded all the files
 3. [Notebook](scripts/bihar_to_csv.ipynb) to check file size and produce [metadata CSV for files](metadata_and_log_files/bihar.csv)
+4. [Notebook](scripts/scrape-dry-run-getmeta.ipynb) gets the [metadata from the webpage (including names etc.)](metadata_and_log_files/metadata.csv) and appends to [the csv obtained step 3](metadata_and_log_files/bihar.csv)
 
 ### Log Files and Metadata CSV
 
@@ -17,6 +18,7 @@ The file name has the following format: `FinalRoll_ACNo_<AC NO 1~243>PartNo_<PAR
 * [list2.txt](metadata_and_log_files/list2.txt) --- all files that downloaded after the 2nd time.
 * [list3.txt](metadata_and_log_files/list3.txt) --- all files with file size.
 * [Metadata CSV for Files along with size](metadata_and_log_files/bihar.csv)
+* [Metadata CSV with data from the webpage](metadata_and_log_files/metadata.csv)
 
 ### How Do I Get the Electoral Rolls?
 
