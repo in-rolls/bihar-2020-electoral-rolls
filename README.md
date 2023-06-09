@@ -1,6 +1,6 @@
 ## Bihar Electoral Rolls (2020)
 
-**READ ONLY ARCHIVE.**
+### 🚫 This repository has been archived. The code was written to scrape data at a point in time.
 
 We scraped the 2020 Bihar Electoral Rolls from http://ele.bihar.gov.in/pdfsearch/ (Publication Date: 07-02-2020). In all, there were 72,723 primary rolls from 243 constituencies.
 
